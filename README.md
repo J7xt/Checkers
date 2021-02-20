@@ -1,5 +1,9 @@
 ### Checkers
 My username checkers
+- Instagram Checker
+- Pastebin Checker
+- Twitter Checker
+- Github Checker
 
 ### How To Use
 - `python3 file.py <wordlist>`
